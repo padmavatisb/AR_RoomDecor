@@ -11,20 +11,11 @@
 
 <p align="center">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/3d-webxr-furniture?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/padmavatisb/AR_RoomDecor?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/padmavatisb/AR_RoomDecor?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/padmavatisb/AR_RoomDecor?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/3d-webxr-furniture?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/3d-webxr-furniture?color=56BEB8" /> -->
 </p>
-
-<!-- Status -->
-
-<!-- <h4 align="center">
-	🚧  3d Webxr Furniture 🚀 Under construction...  🚧
-</h4>
-
-<hr> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -40,35 +31,36 @@
 
 ## :dart: About
 
-Use augmented reality (AR) to pick and place a selection of furniture models into your surroundings in real-time using your mobile's live video footage of your current surroundings. This project leverages ThreeJS to render the scene and furniture models, WebXR to enable AR mode with estimated real-time environment lighting, hit testing for furniture placement on the floor, and dom-overlay to render the UI.
+Use augmented reality (AR) to pick and place a selection of furniture models into your surroundings in real-time using your mobile's camera.  
+This project leverages ThreeJS to render the scene and furniture models, WebXR to enable AR mode with real-time environment lighting, hit testing for placing furniture on the floor, and dom-overlay for UI.
 
-View the live demo on your mobile at: https://padmavatisb.github.io/AR_RoomDecor/
+View the **live demo on your mobile** at:  
+➡️ [https://padmavatisb.github.io/AR_RoomDecor/](https://padmavatisb.github.io/AR_RoomDecor/)
 
+## :checkered_flag: Starting (using demo)
 
-## :checkered_flag: Starting
-
-1. Using your phone, go to the live website at: https://padmavatisb.github.io/AR_RoomDecor/
-2. See the `Enter AR` button at the bottom of the screen and click it
-3. Allow phone permissions to use the camera
-4. See the row of furniture selections in the bottom banner that is horizontally scrollable. When you click the furniture thumbnail, a white border appears around your selection
-5. Pan your phone and walk around and see that a white ring reticle appears to show where you can place your furniture selection
-6. In your phone, white the white ring reticle present, tap the phone screen and see your furniture selection appear in place of the reticle
-7. You can switch furniture selections and continue walking around and placing furniture
-8. See that as you walk around and pan your phone, you are able to walk around the furniture and view it in 3D in real-time
-9. Clik `Stop AR` to exit the experience
+1. Using your phone, open: [https://padmavatisb.github.io/AR_RoomDecor/](https://padmavatisb.github.io/AR_RoomDecor/)
+2. Click the `Enter AR` button at the bottom of the screen.
+3. Allow camera permissions.
+4. Scroll through the row of furniture selections at the bottom. Click a thumbnail to select (you’ll see a white border).
+5. Move your phone around — a white ring (reticle) will appear showing where you can place furniture.
+6. While the reticle is visible, tap the screen to place the selected furniture model.
+7. Continue walking around and panning to view the furniture in real 3D space.
+8. Switch furniture selections anytime to place different items.
+9. Click `Stop AR` to exit.
 
 ## :sparkles: Features
 
-:heavy_check_mark: Hit Testing\
-:heavy_check_mark: Real-Time Environment Light Estimation\
-:heavy_check_mark: Augmented Reality with WebXR\
-:heavy_check_mark: Realistic 3D Models with Textures\
-:heavy_check_mark: Horizontally Scrollable Furniture Selection\
-:heavy_check_mark: Dom-Overlay
+:heavy_check_mark: Hit Testing  
+:heavy_check_mark: Real-Time Environment Light Estimation  
+:heavy_check_mark: Augmented Reality with WebXR  
+:heavy_check_mark: Realistic 3D Models with Textures  
+:heavy_check_mark: Horizontally Scrollable Furniture Selection  
+:heavy_check_mark: DOM Overlay UI
 
 ## :rocket: Technologies
 
-The following tools were used in this project:
+This project uses:
 
 - [ThreeJS](https://threejs.org/)
 - [Node.js](https://nodejs.org/en/)
@@ -76,28 +68,22 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before running locally, make sure you have:
 
-## :checkered_flag: Starting
+- [Git](https://git-scm.com)
+- [Node](https://nodejs.org/en/)
+
+## :checkered_flag: Starting locally
 
 ```bash
 # Clone this project
-$ git clone [https://padmavatisb.github.io/AR_RoomDecor/]
+git clone https://github.com/padmavatisb/AR_RoomDecor.git
 
-# Access
-$ cd AR RoomDecor
+# Go into the project directory
+cd AR_RoomDecor
 
 # Install dependencies
-$ npm install
+npm install
 
-# Run the project
-$ npm run
-$ npm start
-
-# The server will initialize in the <http://localhost:3000>.
-
-
-
-
-
-<a href="#top">Back to top</a>
+# Start the development server
+npm run start
