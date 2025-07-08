@@ -1,9 +1,8 @@
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="3D WebXR Furniture" />
 
-&#xa0;
+<a href="https://cynthia-3d-webxr-furniture-placement.netlify.app/">Demo</a>
 
-<a href="https://padmavatisb.github.io/AR_RoomDecor/">Demo</a>
 
 </div>
 
