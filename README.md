@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="3D WebXR Furniture" />
 
-<a href="https://https://padmavatisb-arroomdecor.netlify.app//">Demo</a>
+<a href="https://padmavatisb-arroomdecor.netlify.app//">Demo</a>
 
 
 </div>
