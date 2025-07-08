@@ -3,20 +3,13 @@
 
 &#xa0;
 
-<a href="https://cynthia-3d-webxr-furniture-placement.netlify.app/">Demo</a>
+<a href="https://padmavatisb.github.io/AR_RoomDecor/">Demo</a>
 
 </div>
 
 <h1 align="center">3D WebXR Furniture</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/cynthiachiu/3d-webxr-furniture?color=56BEB8">
-
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/cynthiachiu/3d-webxr-furniture?color=56BEB8">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/cynthiachiu/3d-webxr-furniture?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/cynthiachiu/3d-webxr-furniture?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/3d-webxr-furniture?color=56BEB8" /> -->
 
@@ -40,7 +33,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/cynthiachiu" target="_blank">Author</a>
+  <a href="https://github.com/padmavatisb" target="_blank">Author</a>
 </p>
 
 <br>
@@ -49,13 +42,12 @@
 
 Use augmented reality (AR) to pick and place a selection of furniture models into your surroundings in real-time using your mobile's live video footage of your current surroundings. This project leverages ThreeJS to render the scene and furniture models, WebXR to enable AR mode with estimated real-time environment lighting, hit testing for furniture placement on the floor, and dom-overlay to render the UI.
 
-View the live demo on your mobile at: https://cynthia-3d-webxr-furniture-placement.netlify.app/
+View the live demo on your mobile at: https://padmavatisb.github.io/AR_RoomDecor/
 
-https://github.com/cynthiachiu/3D-WebXR-Furniture/assets/20048911/9340db31-3451-47ac-adba-51230ca6abd3
 
 ## :checkered_flag: Starting
 
-1. Using your phone, go to the live website at: https://cynthia-3d-webxr-furniture-placement.netlify.app/
+1. Using your phone, go to the live website at: https://padmavatisb.github.io/AR_RoomDecor/
 2. See the `Enter AR` button at the bottom of the screen and click it
 3. Allow phone permissions to use the camera
 4. See the row of furniture selections in the bottom banner that is horizontally scrollable. When you click the furniture thumbnail, a white border appears around your selection
@@ -90,28 +82,22 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/cynthiachiu/3D-WebXR-Furniture
+$ git clone [https://padmavatisb.github.io/AR_RoomDecor/]
 
 # Access
-$ cd 3D-WebXR-Furniture
+$ cd AR RoomDecor
 
 # Install dependencies
 $ npm install
 
 # Run the project
+$ npm run
 $ npm start
 
 # The server will initialize in the <http://localhost:3000>.
 
-# You can use ngrok to generate a link and try on your mobile with the secure ngrok link.
-```
 
-## :memo: License
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/cynthiachiu" target="_blank">cynthiachiu</a>
-
-&#xa0;
 
 <a href="#top">Back to top</a>
