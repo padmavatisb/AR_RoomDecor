@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="AR ROOM DECOR" />
 
-<a href="https://padmavatisb-arroomdecor.netlify.app//">Demo</a>
+<a href="https://roomdecor-arpadmavati.netlify.app//">Demo</a>
 
 
 </div>
