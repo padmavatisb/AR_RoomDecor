@@ -6,7 +6,7 @@
 
 </div>
 
-<h1 align="center">3D WebXR Furniture</h1>
+<h1 align="center">AR Room Decor</h1>
 
 <p align="center">
 
