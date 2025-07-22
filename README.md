@@ -13,6 +13,7 @@
 <!-- <h4 align="center">
 	🚧  3d Webxr Furniture 🚀 Under construction...  🚧
 </h4>
+<hr> -->
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="AR ROOM DECOR" />
 
@@ -26,8 +27,6 @@
 
 
 </div>
-<hr> -->
-
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
