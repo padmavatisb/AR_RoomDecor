@@ -1,6 +1,6 @@
 
-
 <h1 align="center">AR Room Decor</h1>
+
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="AR ROOM DECOR" />
 
@@ -11,7 +11,6 @@
     <a href="https://687e378399c05a0008faa581--roomdecor-padmavati.netlify.app/" target="_blank" class="btn">
       🔁 Rotate + Scale Demo
     </a>
-
 
 
 </div>
