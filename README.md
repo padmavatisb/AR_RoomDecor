@@ -1,23 +1,20 @@
+
+
+<h1 align="center">AR Room Decor</h1>
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="AR ROOM DECOR" />
 
 <a href="https://roomdecor-arpadmavati.netlify.app//">Demo</a>
-
-
-
-</div>
-
-<h1 align="center">AR Room Decor</h1>
-<div align="center" id="top"> 
-  <a href="https://687e34fd82242c00085b25c7--roomdecor-padmavati.netlify.app/" target="_blank" class="btn">
+ <a href="https://687e34fd82242c00085b25c7--roomdecor-padmavati.netlify.app/" target="_blank" class="btn">
       🔄 Translate + Scale Demo
     </a> <br>
     <a href="https://687e378399c05a0008faa581--roomdecor-padmavati.netlify.app/" target="_blank" class="btn">
       🔁 Rotate + Scale Demo
     </a>
-</div>
-<p align="center">
 
+
+
+</div>
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/3d-webxr-furniture?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/3d-webxr-furniture?color=56BEB8" /> -->
